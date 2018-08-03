@@ -1,8 +1,11 @@
-# Mail Host Update 
+# Viking Plumbing
+Simple website for plubing business. 
+
+## Mail Host Update 
 once the website is up, you will need to configure an email agent to forward the appointment requests to your email address. 
 https://signup.mailgun.com/new/signup
 
-### Idea:
+## Idea:
 https://www.shutterstock.com/video/clip-20216443-dripping-faucet-leakage-concept-super-slow-motion
 
 ## I need:
