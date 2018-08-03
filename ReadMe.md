@@ -1,13 +1,6 @@
 # Viking Plumbing
-Simple website for plubing business. 
+Simple website for a plumbing business built using materialize and express for the contact form. 
 https://murmuring-stream-27871.herokuapp.com/
-
-## Mail Host Update 
-once the website is up, you will need to configure an email agent to forward the appointment requests to your email address. 
-https://signup.mailgun.com/new/signup
-
-## Idea:
-https://www.shutterstock.com/video/clip-20216443-dripping-faucet-leakage-concept-super-slow-motion
 
 ## I need:
 
@@ -26,3 +19,10 @@ https://www.shutterstock.com/video/clip-20216443-dripping-faucet-leakage-concept
 * external links to projects if available
 * social media links or other websites
 * logo
+
+### Mail Host Update 
+once the website is up, you will need to configure an email agent to forward the appointment requests to your email address. 
+https://signup.mailgun.com/new/signup
+
+### Idea:
+https://www.shutterstock.com/video/clip-20216443-dripping-faucet-leakage-concept-super-slow-motion
